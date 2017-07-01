@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1498918526 source:c:\users\nubian\documents\programming\c\ser334_unit1a_hw02.c.c
+	<stdio.h>
+
+1498918358 source:c:\users\nubian\documents\programming\c\test\main.c
+	<math.h>
+	<stdio.h>
+
+1498921255 source:c:\users\nubian\documents\programming\c\ser334_unit1_hw02c_base.c
+	<stdio.h>
+	<string.h>
+
